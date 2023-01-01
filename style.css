@@ -1,0 +1,33 @@
+.kuvat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+}
+.backgroundcolor {
+    background-color: bisque;
+}
+#cat_text{
+    background-color: rgb(252, 252, 252);
+}
+#carousel
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+#homecat {
+    display: block;
+    float: left;
+    width: 40%;
+}
+#background-div {
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.cat_text{
+    text-align: center;
+}
