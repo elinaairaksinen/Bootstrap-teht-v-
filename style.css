@@ -31,3 +31,17 @@
 .cat_text{
     text-align: center;
 }
+.etusivu{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: aliceblue;
+}
+.mainecoon{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: aliceblue;  
+}
