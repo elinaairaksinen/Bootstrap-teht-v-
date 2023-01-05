@@ -17,9 +17,10 @@
     width: 50%; 
 }
 #homecat {
+    margin-top: 2%;
     display: block;
     float: left;
-    width: 40%;
+    width: 50%;
 }
 #background-div {
     background-color: rgb(255, 255, 255);
@@ -45,3 +46,14 @@
     width: 50%;
     background-color: aliceblue;  
 }
+.textbox{
+    background-color: rgb(243, 242, 238);
+    width: 50%;
+    float: right;
+    margin-top: 5%;
+
+}
+#homecatt {
+  width: 50%;
+}
+
