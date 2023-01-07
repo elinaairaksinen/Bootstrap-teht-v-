@@ -5,30 +5,34 @@
     width: 50%;  
 }
 .backgroundcolor {
-    background-color: bisque;
+    background-color: rgb(231, 185, 129);
 }
 #cat_text{
-    background-color: rgb(252, 252, 252);
+    background-color: rgb(255, 255, 255);
+
 }
+
 #carousel
 {
     margin-left: auto;
     margin-right: auto;
     width: 50%; 
 }
+
 #homecat {
     margin-top: 2%;
     display: block;
     float: left;
     width: 50%;
 }
+
 #background-div {
     background-color: rgb(255, 255, 255);
     width: 60%;
     margin-left: auto;
     margin-right: auto;
-
 }
+
 .cat_text{
     text-align: center;
 }
@@ -38,6 +42,7 @@
   margin-right: auto;
   width: 50%;
   background-color: aliceblue;
+  padding: 1%;
 }
 .mainecoon{
     text-align: center;
@@ -56,16 +61,46 @@
 #homecatt {
   width: 50%;
 }
+
+#imagediv{
+    float:left;
+    margin-top:0px;
+}
+
 .alaosa{
     background-color: aliceblue;
     width: 100%;
     text-align: center;
     height: 50PX;
     margin-top: 2%;
+    float: left;
 }
+
+#card_ja_teksti {
+    width:100%;
+    margin-bottom: 0px;
+    float: left;
+}
+
 #maatiaisteksti{
-    margin-top:10px;}
+  background-color: antiquewhite;
+  width: 40%;
+  margin-left: auto;
+  margin-right: 6%;
+  margin-top: 5%;
+  text-align: center;
+  padding: 2%;
+  float:right;
+  
+}
 
 .alateksti{
     font-size: medium;
+    margin-top: 1%;
+}
+
+.card {
+    float: left;
+    margin-top: 1%;
+    margin-left: 4%;
 }
