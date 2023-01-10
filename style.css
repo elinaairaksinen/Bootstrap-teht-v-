@@ -5,7 +5,7 @@
     width: 50%;  
 }
 .backgroundcolor {
-    background-color: rgb(231, 185, 129);
+    background-color: #E8C2C2
 }
 #cat_text{
     background-color: rgb(255, 255, 255);
@@ -35,6 +35,7 @@
 
 .cat_text{
     text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .etusivu{
   text-align: center;
@@ -116,4 +117,23 @@
 }
 #lahdeluettelo {
     font-size:larger;
+}
+h1 + p {
+
+color: blue;
+}
+h3 > a {
+color:blueviolet;
+}
+h5 ~ p {
+    color: green;;
+}
+a[target="_blank"]{
+    color:palevioletred;
+}
+button:hover {
+    color:orangered;
+}
+h1:active {
+    color: blue;
 }
