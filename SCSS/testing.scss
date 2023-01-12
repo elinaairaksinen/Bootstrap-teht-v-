@@ -1,0 +1,140 @@
+$background-color: white;
+.kuvat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+}
+.backgroundcolor {
+    background-color: #E2C2C2
+}
+#cat_text{
+    background-color: rgb(255, 255, 255);
+
+}
+
+#carousel
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+#homecat {
+    margin-top: 2%;
+    display: block;
+    float: left;
+    width: 50%;
+}
+
+#background-div {
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cat_text{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.etusivu{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: $background-color;
+  padding: 1%;
+}
+.mainecoon{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: $background-color;
+}
+.textbox{
+    background-color: rgb(243, 242, 238);
+    width: 50%;
+    float: right;
+    margin-top: 5%;
+
+}
+#homecatt {
+  width: 50%;
+}
+
+#imagediv{
+    float:left;
+    margin-top:0px;
+}
+
+.alaosa{
+    background-color: $background-color;
+    width: 100%;
+    text-align: center;
+    height: 50PX;
+    margin-top: 2%;
+    float: left;
+}
+
+#card_ja_teksti {
+    width:100%;
+    margin-bottom: 0px;
+    float: left;
+}
+
+#maatiaisteksti{
+  background-color: $background-color;
+  width: 40%;
+  margin-left: auto;
+  margin-right: 6%;
+  margin-top: 5%;
+  text-align: center;
+  padding: 2%;
+  float:right;
+  
+}
+
+.alateksti{
+    font-size: medium;
+    margin-top: 1%;
+}
+
+.card {
+    float: left;
+    margin-top: 1%;
+    margin-left: 4%;
+}
+#lahteet {
+    background-color: $background-color;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    padding: 1%;
+    text-align: center;
+}
+#lahdeluettelo {
+    font-size:larger;
+}
+h1 + p {
+
+color: blue;
+}
+h3 > a {
+color:blueviolet;
+}
+h5 ~ p {
+    color: green;;
+}
+a[target="_blank"]{
+    color:palevioletred;
+}
+button:hover {
+    color:orangered;
+}
+h1:active {
+    color: blue;
+}
